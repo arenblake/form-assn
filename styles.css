@@ -1,0 +1,19 @@
+
+form div {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#form-message {
+    height: 150px;
+}
+
+button {
+    width: 80px;
+}
